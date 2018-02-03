@@ -1,0 +1,49 @@
+# Creative Tab
+itemGroup.artisanworktables=Ateliers d'artisanat
+
+# Worktables
+tile.artisanworktables.worktable.basic.name=Table Basique
+tile.artisanworktables.worktable.blacksmith.name=Atelier de Forge
+tile.artisanworktables.worktable.carpenter.name=Etabli de Menuiserie
+tile.artisanworktables.worktable.chemist.name=Laboratoire de Chimie
+tile.artisanworktables.worktable.engineer.name=Bureau d'Ingénierie Mécanique
+tile.artisanworktables.worktable.jeweler.name=Banc de Bijoutier
+tile.artisanworktables.worktable.mage.name=Autel de Magie
+tile.artisanworktables.worktable.mason.name=Etabli de Maçonnerie
+tile.artisanworktables.worktable.scribe.name=Pupitre de Scribe
+tile.artisanworktables.worktable.tailor.name=Atelier de Tailleur
+
+# Toolbox
+tile.artisanworktables.toolbox.name=Coffre à outils
+tile.artisanworktables.mechanical_toolbox.name=Caisse à Outils
+
+# Worktable Tools
+item.artisanworktables.blacksmiths.cutters.name=%s Tenailles de Forgeron
+item.artisanworktables.blacksmiths.hammer.name=%s Masse de Forgeron
+item.artisanworktables.carpenters.hammer.name=%s Marteau de Menuisier
+item.artisanworktables.carpenters.handsaw.name=%s Scie de Menuisier
+item.artisanworktables.chemists.beaker.name=%s Bécher de Chimiste
+item.artisanworktables.chemists.burner.name=%s Bec Bunsen de Chimiste
+item.artisanworktables.engineers.driver.name=%s Tournevis de Mécanicien
+item.artisanworktables.engineers.spanner.name=%s Clé de Mécanicien
+item.artisanworktables.jewelers.gemcutter.name=%s Ciseau de Bijoutier
+item.artisanworktables.jewelers.pliers.name=%s Pince de Bijoutier
+item.artisanworktables.mages.athame.name=%s Dague Magique
+item.artisanworktables.mages.grimoire.name=%s Grimoire Magique
+item.artisanworktables.masons.chisel.name=%s Burin de Maçon
+item.artisanworktables.masons.trowel.name=%s Truelle de Maçon
+item.artisanworktables.scribes.compass.name=%s Compas de l'Ecrivain
+item.artisanworktables.scribes.quill.name==%s Plume de l'Ecrivain
+item.artisanworktables.tailors.needle.name=%s Aiguille de Tailleur
+item.artisanworktables.tailors.shears.name=%s Cisaille de Tailleur
+
+# JEI
+jei.artisanworktables.tooltip.shapeless.recipe=Recette sans modèle
+jei.artisanworktables.tooltip.chance=%s%s%% Chance de Craft
+
+# GUI
+gui.artisanworktables.tooltip.fluid.empty=Vide
+gui.artisanworktables.tooltip.fluid.destroy=%sDestrution du Liquide: %sSHIFT + LEFT-CLICK
+
+# Tooltip
+item.artisanworktables.tooltip.durability=Durabilité: %d / %d
